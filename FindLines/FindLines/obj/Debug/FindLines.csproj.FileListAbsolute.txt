@@ -1,0 +1,12 @@
+C:\Users\TóthNorbert\source\repos\FindLines\FindLines\bin\Debug\FindLines.exe.config
+C:\Users\TóthNorbert\source\repos\FindLines\FindLines\bin\Debug\FindLines.exe
+C:\Users\TóthNorbert\source\repos\FindLines\FindLines\bin\Debug\FindLines.pdb
+C:\Users\TóthNorbert\source\repos\FindLines\FindLines\obj\Debug\FindLines.csprojAssemblyReference.cache
+C:\Users\TóthNorbert\source\repos\FindLines\FindLines\obj\Debug\FindLines.exe
+C:\Users\TóthNorbert\source\repos\FindLines\FindLines\obj\Debug\FindLines.pdb
+C:\Users\TóthNorbert\source\repos\findlinesrepo\FindLines\FindLines\bin\Debug\FindLines.exe.config
+C:\Users\TóthNorbert\source\repos\findlinesrepo\FindLines\FindLines\bin\Debug\FindLines.exe
+C:\Users\TóthNorbert\source\repos\findlinesrepo\FindLines\FindLines\bin\Debug\FindLines.pdb
+C:\Users\TóthNorbert\source\repos\findlinesrepo\FindLines\FindLines\obj\Debug\FindLines.csprojAssemblyReference.cache
+C:\Users\TóthNorbert\source\repos\findlinesrepo\FindLines\FindLines\obj\Debug\FindLines.exe
+C:\Users\TóthNorbert\source\repos\findlinesrepo\FindLines\FindLines\obj\Debug\FindLines.pdb

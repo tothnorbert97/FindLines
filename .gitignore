@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/FindLines/.vs/FindLines/v16/Server/sqlite3/db.lock
+/FindLines/.vs/FindLines/v16/Server/sqlite3/storage.ide-wal
+/FindLines/.vs/FindLines/v16/Server/sqlite3/storage.ide-shm
+/FindLines/.vs/FindLines/v16/Server/sqlite3/storage.ide
+/FindLines/.vs/FindLines/v16/TestStore/0
+/FindLines/.vs/FindLines/v16
